@@ -1,0 +1,27 @@
+Accomplishments:
+- Understand how to build a convolutional neural network, including recent variations such as residual networks.
+- Apply convolutional networks to visual detection and recognition tasks.
+- Use neural style transfer to generate art.
+- Apply these algorithms to a variety of image, video, and other 2D or 3D data.
+
+
+Week 01
+Convolutional Neural Networks: Step by Step
+Convolutional Neural Networks: Application
+
+Week 02
+Keras tutorial - Emotion Detection in Images of Faces
+Residual Networks
+
+Week 03
+Autonomous driving - Car detection with YOLO
+
+Week 04
+Art generation with Neural Style Transfer
+Face Recognition
+
+
+
+
+
+

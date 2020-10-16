@@ -1,0 +1,20 @@
+Sequence Models
+
+Accomplishments:
+- Build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
+- Apply sequence models to natural language problems, including text synthesis. 
+- Apply sequence models to audio applications, including speech recognition and music synthesis.
+
+
+Week 01
+Building your Recurrent Neural Network - Step by Step
+Character level language model - Dinosaurus Island
+Improvise a Jazz Solo with an LSTM Network
+
+Week 02
+Operations on word vectors
+Emojify!
+
+Week 03
+Neural Machine Translation with Attention
+Trigger Word Detection
